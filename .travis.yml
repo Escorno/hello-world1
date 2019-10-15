@@ -7,5 +7,5 @@ install:
        
 script:
      -gcc hello.c -o hello -lurl
-     -./hello
+      -./hello
      
